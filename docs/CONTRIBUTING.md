@@ -36,22 +36,22 @@ En participant, vous devez respecter le [code de conduite du projet](CODE_OF_CON
 
 Beaucoup de choses, l’écriture de code n’étant pas l’unique manière de contribuer au projet !
 
-### Rapporter des bugs
+### Rapporter des bugs :bug: 
 
 Il parait que chaque bug relevé sauve un chaton. En tout cas, la technique du [ZBSD (Zero-Bug Software Development)](https://medium.com/quality-functions/the-zero-bug-policy-b0bd987be684) semble porter ses fruits, comme le rapporte [Andrew Fulton](https://medium.com/@andrew.fulton/how-we-got-to-zero-bugs-and-implemented-a-zero-bug-policy-c77ee3f2e50b).
 Donc, si à chaque bug rencontré quelqu’un [ouvre une issue](#ouvrir-une-issue) avec le label **Bug** :bug:, ce seront des familles entières de chats qui seront sauvées.
 
-### Suggérer des améliorations ou de nouvelles fonctionnalités
+### Suggérer des améliorations ou de nouvelles fonctionnalités :heart:
 
 Dans ce cas, ouvrez une nouvelle issue de type **Amélioration** :heart: en décrivant bien votre idée.
 
-### Signaler des manques dans la documentation
+### Signaler des manques dans la documentation :blue_book:
 
 Si pendant votre participation au projet (que ce soit en l'utilisant ou en participant au code) vous n'avez pas réussit à faire quelque chose par manque de solution, signalez le en ouvrant une issue de type **Documentation** :blue_book: .
 
 Et d'ailleurs n'hésitez pas à traiter cette issue en proposant un PR améliorant la documentation si vous avez trouvez une solution !
 
-### Contribuer au code
+### Contribuer au code :seedling:
 
 <!-- Topo sur le projet -->
 

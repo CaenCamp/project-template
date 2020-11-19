@@ -11,7 +11,7 @@ Ce dépôt peut servir de [template](https://github.blog/2019-06-06-generate-new
 
 ## Démarrage rapide
 
-Une description rapide des pré-requis sur l'environnement local permettant de lancer un `make install`.
+Une description rapide des [pré-requis](./docs/CONTRIBUTING.md#lenvironnement-de-développement) sur l'environnement local permettant de lancer un `make install`.
 
 Le `Makefile` devra toujours comporter au moins les recettes suivantes :
 
